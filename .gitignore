@@ -1,0 +1,18 @@
+# Keep customer projects and credentials out of this public tools repository.
+*.pdf
+*.dwg
+*.dxf
+*.pptx
+*.xlsx
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.webp
+.env
+.env.*
+*token*
+*secret*
+projects/
+outputs/
+work/
